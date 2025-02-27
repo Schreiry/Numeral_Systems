@@ -11,11 +11,6 @@ Welcome to **A Comprehensive Guide to Numeral Systems**! This repository feature
 ## Prologue
 As a dedicated student of **Computing Hardware**, I was eager to create an all-encompassing study guide on numeral systems. At the same time, I embraced the challenge of learning LaTeX, a powerful tool for creating high-quality documents. Merging these two passions, I developed this repository to serve as both a comprehensive study guide and a demonstration of LaTeX's elegance.
 
-> **"The integration of theory and practice is the cornerstone of true learning."**  
-> — Anonymous
-
----
-
 ## About Numeral Systems
 Numeral systems are methods for representing numbers using a set of symbols based on a specific base. They were created to simplify mathematical operations and to design efficient computational algorithms and digital circuits. Here’s a quick overview:
 
